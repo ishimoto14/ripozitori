@@ -3,7 +3,8 @@
     min-height: 3rem;
 }
 
-#gacha-button{
+#gahca-button{
     margin-bottom: 3rem;
-
+    color: rgb(226, 255, 63);
+    background-color: brown;
 }

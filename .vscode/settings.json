@@ -1,0 +1,4 @@
+{
+    "markdown.extension.orderedList.autoRenumber": true,
+    "markdown.extension.math.enabled": false
+}
